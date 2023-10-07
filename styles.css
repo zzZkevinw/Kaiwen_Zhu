@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    min-width: 1760px;
+    max-width: 1760px;
+    margin: 0 auto;     
+}
+
+#info {
+    text-align: center;
+}
+
+.margin {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.margin-bottom {
+    margin-bottom: 0px;
+}
+.margin-top {
+    margin-top: 0px;
+}
+
+.margin_letf_right {
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+/* 使用flex布局，以及justify-content: space-between来使内容分散对齐 */
+.right-align {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bold-text {
+    font-weight: bold;
+}
