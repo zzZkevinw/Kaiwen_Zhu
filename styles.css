@@ -34,3 +34,22 @@ body {
 .bold-text {
     font-weight: bold;
 }
+
+#program_experience {
+    text-align: center;
+}
+
+.project_name {
+    font-size: 20px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center;     /* 垂直居中 */
+}
+
+video {
+    height: 450px;        
+    width: 250px;        
+}
