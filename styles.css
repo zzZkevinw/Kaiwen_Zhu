@@ -53,3 +53,8 @@ video {
     height: 450px;        
     width: 250px;        
 }
+
+.photo_img {
+    width: 50%; height: auto;
+    
+}
